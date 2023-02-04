@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T10:56:17.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="spRno2c0H6_f_IsnCPoi" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-04T10:59:26.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="6i0wSvR3UfvJ1-g6ZK4F" version="20.8.16" type="github">
   <diagram name="第 1 页" id="bVb-thQ0YmSEIPxT-DDQ">
-    <mxGraphModel dx="1516" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1096" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,7 +90,7 @@
         <mxCell id="6ML0jNFKMh7dgCEZMotU-56" value="$$i_t$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="275" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6ML0jNFKMh7dgCEZMotU-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="6ML0jNFKMh7dgCEZMotU-57" value="$$\tilde{\boldsymbol{c}}_t$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="275" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6ML0jNFKMh7dgCEZMotU-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6ML0jNFKMh7dgCEZMotU-58" target="6ML0jNFKMh7dgCEZMotU-67" edge="1">
@@ -205,9 +205,6 @@
         </mxCell>
         <mxCell id="6ML0jNFKMh7dgCEZMotU-94" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="230" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="6ML0jNFKMh7dgCEZMotU-101" value="$$&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;\tilde{\boldsymbol{c}}_t&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;$$" style="text;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="465" y="263" width="30" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
